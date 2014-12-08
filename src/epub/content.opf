@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="uid">https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge</dc:identifier>
+		<dc:date>2014-05-25T00:00:00Z</dc:date>
+		<meta property="dcterms:modified">2015-02-06T01:38:21Z</meta>
+		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
+		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
+		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
+		<link href="epub/text/unlicense.xhtml" rel="cc:license"/>
+		<link href="epub/onix.xml" rel="onix-record"/>
+		<dc:title id="title">Tao Te Ching</dc:title>
+		<meta property="file-as" refines="#title">Tao Te Ching</meta>
+		<dc:subject id="subject-1">Taoism</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/97173448</meta>
+		<meta property="se:subject">Philosophy</meta>
+		<dc:description id="description">One of the fundamental texts of the Tao philosophy and religion.</dc:description>
+		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;The &lt;i&gt;Tao Te Ching&lt;/i&gt; is a classic Chinese text written around the 6th century BC by Laozi, a Zhou-dynasty courtier.  While its authorship is debated, the text remains a fundamental building block of Taoism and one of the most influential works of its time.  Today it&amp;rsquo;s one of the most-translated works in the world.&lt;/p&gt;
+			&lt;p&gt;The work itself is a series of 81 short poetic sections, each one written in a fluid, ambiguous style, leaving them open to wide interpretation.  Subjects range from advice to those in power to advice to regular people and adages for daily living.  Because of its ambiguous nature the &lt;i&gt;Tao Te Ching&lt;/i&gt; is famously difficult to translate, and many, if not all, translations are significantly influenced by the translator&amp;rsquo;s state of mind.  This translation is by James Legge, a famous Scottish sinologist and the first professor of Chinese at Oxford University.&lt;/p&gt;
+		</meta>
+		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
+		<dc:language>en-GB</dc:language>
+		<dc:source>http://www.gutenberg.org/ebooks/216</dc:source>
+		<meta property="se:word-count">10463</meta>
+		<meta property="se:url.wikipedia">https://en.wikipedia.org/wiki/Tao_Te_Ching</meta>
+		<dc:creator id="author">Laozi</dc:creator>
+		<meta property="file-as" refines="#author">Laozi</meta>
+		<meta property="alternate-script" refines="#author" xml:lang="zh">老子</meta>
+		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Laozi</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="translator">James Legge</dc:contributor>
+		<meta property="file-as" refines="#translator">Legge, James</meta>
+		<meta property="se:url.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/James_Legge</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<meta property="display-seq" refines="#translator">1</meta>
+		<dc:contributor id="artist">Leng Mei</dc:contributor>
+		<meta property="file-as" refines="#artist">Mei, Leng</meta>
+		<meta property="alternate-script" refines="#artist" xml:lang="zh">冷枚</meta>
+		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Leng_Mei</meta>
+		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="transcriber-1">Gregory Walker</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Walker, Gregory</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">typ</meta>
+	</metadata>
+	<manifest>
+		<item href="onix.xml" id="onix.xml" media-type="application/xml"/>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item href="css/core.css" id="core.css" media-type="text/css"/>
+		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/tao-te-ching.xhtml" id="tao-te-ching.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/unlicense.xhtml" id="unlicense.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+	</manifest>
+	<spine>
+		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="tao-te-ching.xhtml"/>
+		<itemref idref="colophon.xhtml"/>
+		<itemref idref="unlicense.xhtml"/>
+	</spine>
+</package>
