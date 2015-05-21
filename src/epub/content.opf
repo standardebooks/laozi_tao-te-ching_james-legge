@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2015-05-12T00:01:00Z</meta>
+		<meta property="dcterms:modified">2015-05-21T05:43:51Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -37,16 +37,19 @@
 		<meta property="file-as" refines="#author">Laozi</meta>
 		<meta property="alternate-script" refines="#author" xml:lang="zh">老子</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Laozi</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80044882.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">James Legge</dc:contributor>
 		<meta property="file-as" refines="#translator">Legge, James</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/James_Legge</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50037968.html</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
 		<dc:contributor id="artist">Leng Mei</dc:contributor>
 		<meta property="file-as" refines="#artist">Mei, Leng</meta>
 		<meta property="alternate-script" refines="#artist" xml:lang="zh">冷枚</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Leng_Mei</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2012033787.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Gregory Walker</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Walker, Gregory</meta>
