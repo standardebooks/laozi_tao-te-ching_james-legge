@@ -19,23 +19,23 @@ section[epub|type~="z3998:poem"] + p{
 	text-indent: 0;
 }
 
-*[epub|type~="z3998:poem"] p{
+[epub|type~="z3998:poem"] p{
 	font-style: italic;
 	text-align: left;
 	text-indent: 0;
 }
 
-*[epub|type~="z3998:poem"] p + p{
+[epub|type~="z3998:poem"] p + p{
 	margin-top: 1em;
 }
 
-*[epub|type~="z3998:poem"] p span{
+[epub|type~="z3998:poem"] p span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
-*[epub|type~="z3998:poem"] br{
+[epub|type~="z3998:poem"] br{
 	display: none;
 }
 
