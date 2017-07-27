@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2017-07-27T06:30:46Z</meta>
-		<meta property="se:revision-number">40</meta>
+		<meta property="dcterms:modified">2017-07-27T20:38:38Z</meta>
+		<meta property="se:revision-number">41</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -25,8 +25,8 @@
 		<dc:description id="description">One of the fundamental texts of the Tao philosophy and religion.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The &lt;i&gt;Tao Te Ching&lt;/i&gt; is a classic Chinese text written around the 6th century BC by Laozi, a Zhou-dynasty courtier.  While its authorship is debated, the text remains a fundamental building block of Taoism and one of the most influential works of its time.  Today it’s one of the most-translated works in the world.&lt;/p&gt;
-			&lt;p&gt;The work itself is a series of 81 short poetic sections, each one written in a fluid, ambiguous style, leaving them open to wide interpretation.  Subjects range from advice to those in power to advice to regular people and adages for daily living.  Because of its ambiguous nature the &lt;i&gt;Tao Te Ching&lt;/i&gt; is famously difficult to translate, and many, if not all, translations are significantly influenced by the translator’s state of mind.  This translation is by James Legge, a famous Scottish sinologist and the first professor of Chinese at Oxford University.&lt;/p&gt;
+			&lt;p&gt;The &lt;i&gt;Tao Te Ching&lt;/i&gt; is a classic Chinese text written around the 6th century BC by Laozi, a Zhou-dynasty courtier. While its authorship is debated, the text remains a fundamental building block of Taoism and one of the most influential works of its time. Today it’s one of the most-translated works in the world.&lt;/p&gt;
+			&lt;p&gt;The work itself is a series of 81 short poetic sections, each one written in a fluid, ambiguous style, leaving them open to wide interpretation. Subjects range from advice to those in power to advice to regular people and adages for daily living. Because of its ambiguous nature the &lt;i&gt;Tao Te Ching&lt;/i&gt; is famously difficult to translate, and many, if not all, translations are significantly influenced by the translator’s state of mind. This translation is by James Legge, a famous Scottish sinologist and the first professor of Chinese at Oxford University.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
