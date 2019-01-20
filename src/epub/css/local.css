@@ -6,21 +6,16 @@ section[epub|type~="part"] > h2{
 	page-break-after: always;
 }
 
-section[epub|type~="z3998:poem"]{
-	margin-left: 1em;
+[epub|type~="z3998:poem"]{
+	font-style: italic;
+	margin: 1em;
 }
 
-p + section[epub|type~="z3998:poem"],
-section[epub|type~="z3998:poem"] + p{
-	margin-top: 1em;
-}
-
-section[epub|type~="z3998:poem"] + p{
+div[epub|type~="z3998:poem"] + p{
 	text-indent: 0;
 }
 
 [epub|type~="z3998:poem"] p{
-	font-style: italic;
 	text-align: left;
 	text-indent: 0;
 }
