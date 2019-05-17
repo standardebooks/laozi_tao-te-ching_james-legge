@@ -26,19 +26,18 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Tao Te Ching</dc:title>
 		<meta property="file-as" refines="#title">Tao Te Ching</meta>
 		<dc:subject id="subject-1">Taoism</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/97173448</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85132392</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">One of the fundamental texts of the Tao philosophy and religion.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The &lt;i&gt;Tao Te Ching&lt;/i&gt; is a classic Chinese text written around the 6th century BC by Laozi, a Zhou-dynasty courtier. While its authorship is debated, the text remains a fundamental building block of Taoism and one of the most influential works of its time. Today it’s one of the most-translated works in the world.&lt;/p&gt;
 			&lt;p&gt;The work itself is a series of 81 short poetic sections, each one written in a fluid, ambiguous style, leaving them open to wide interpretation. Subjects range from advice to those in power to advice to regular people and adages for daily living. Because of its ambiguous nature the &lt;i&gt;Tao Te Ching&lt;/i&gt; is famously difficult to translate, and many, if not all, translations are significantly influenced by the translator’s state of mind. This translation is by James Legge, a famous Scottish sinologist and the first professor of Chinese at Oxford University.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/216</dc:source>
 		<meta property="se:word-count">10464</meta>
