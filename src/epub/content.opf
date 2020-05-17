@@ -35,7 +35,7 @@
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">One of the fundamental texts of the Tao philosophy and religion.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The &lt;i&gt;Tao Te Ching&lt;/i&gt; is a classic Chinese text written around the 6th century BC by Laozi, a Zhou-dynasty courtier. While its authorship is debated, the text remains a fundamental building block of Taoism and one of the most influential works of its time. Today it’s one of the most-translated works in the world.&lt;/p&gt;
+			&lt;p&gt;The &lt;i&gt;Tao Te Ching&lt;/i&gt; is a classic Chinese text written around the 6th century &lt;abbr&gt;BC&lt;/abbr&gt; by &lt;a href="https://standardebooks.org/ebooks/laozi"&gt;Laozi&lt;/a&gt;, a Zhou-dynasty courtier. While its authorship is debated, the text remains a fundamental building block of Taoism and one of the most influential works of its time. Today it’s one of the most-translated works in the world.&lt;/p&gt;
 			&lt;p&gt;The work itself is a series of 81 short poetic sections, each one written in a fluid, ambiguous style, leaving them open to wide interpretation. Subjects range from advice to those in power to advice to regular people and adages for daily living. Because of its ambiguous nature the &lt;i&gt;Tao Te Ching&lt;/i&gt; is famously difficult to translate, and many, if not all, translations are significantly influenced by the translator’s state of mind. This translation is by James Legge, a famous Scottish sinologist and the first professor of Chinese at Oxford University.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
