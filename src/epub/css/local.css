@@ -3,7 +3,7 @@
 
 section[epub|type~="chapter"],
 section[epub|type~="part"] > h2{
-	page-break-after: always;
+	break-after: page;
 }
 
 [epub|type~="z3998:poem"]{
