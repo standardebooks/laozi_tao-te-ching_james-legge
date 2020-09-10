@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="tao-te-ching.xhtml">
+		<ignore>
+			<code>m-045</code>
+			<reason>The file contains the entire work and thus its title is not in the ToC.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
