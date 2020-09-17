@@ -34,10 +34,6 @@ div[epub|type~="z3998:poem"] + p{
 	display: none;
 }
 
-abbr.era{
-	font-variant: all-small-caps;
-}
-
 p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
