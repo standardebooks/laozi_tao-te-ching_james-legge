@@ -11,10 +11,6 @@ section[epub|type~="part"] > h2{
 	margin: 1em;
 }
 
-div[epub|type~="z3998:poem"] + p{
-	text-indent: 0;
-}
-
 [epub|type~="z3998:poem"] p{
 	text-align: left;
 	text-indent: 0;
