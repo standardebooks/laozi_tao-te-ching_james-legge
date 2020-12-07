@@ -46,7 +46,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/laozi_tao-te-ching_james-legge</meta>
 		<dc:creator id="author">Laozi</dc:creator>
 		<meta property="file-as" refines="#author">Laozi</meta>
-		<meta property="alternate-script" refines="#author" xml:lang="zh">老子</meta>
+		<meta property="alternate-script" refines="#author" xml:lang="zh-Hant">老子</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Laozi</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80044882</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -58,7 +58,7 @@
 		<meta property="display-seq" refines="#translator">1</meta>
 		<dc:contributor id="artist">Leng Mei</dc:contributor>
 		<meta property="file-as" refines="#artist">Mei, Leng</meta>
-		<meta property="alternate-script" refines="#artist" xml:lang="zh">冷枚</meta>
+		<meta property="alternate-script" refines="#artist" xml:lang="zh-Hant">冷枚</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Leng_Mei</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2012033787</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
