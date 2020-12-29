@@ -12,7 +12,7 @@ section[epub|type~="part"] > h2{
 }
 
 [epub|type~="z3998:poem"] p{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
