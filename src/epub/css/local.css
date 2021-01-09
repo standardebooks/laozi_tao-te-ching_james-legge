@@ -2,6 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 section[epub|type~="chapter"],
+section[epub|type~="part"],
 section[epub|type~="part"] > h2{
 	break-after: page;
 }
