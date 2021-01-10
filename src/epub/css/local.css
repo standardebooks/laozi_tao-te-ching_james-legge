@@ -7,6 +7,10 @@ section[epub|type~="part"] > h2{
 	break-after: page;
 }
 
+body [xml|lang]{ 
+	font-style: italic; 
+}
+
 [epub|type~="z3998:poem"]{
 	font-style: italic;
 	margin: 1em;
@@ -29,6 +33,12 @@ section[epub|type~="part"] > h2{
 
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
+}
+
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
 }
 
 p span.i1{
