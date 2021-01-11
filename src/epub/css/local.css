@@ -1,14 +1,15 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
+
+body [xml|lang]{ 
+	font-style: italic; 
+}
 
 section[epub|type~="chapter"],
 section[epub|type~="part"],
 section[epub|type~="part"] > h2{
 	break-after: page;
-}
-
-body [xml|lang]{ 
-	font-style: italic; 
 }
 
 [epub|type~="z3998:poem"]{
