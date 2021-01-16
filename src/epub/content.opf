@@ -55,6 +55,9 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/James_Legge</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50037968</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">wpr</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
 		<dc:contributor id="artist">Leng Mei</dc:contributor>
 		<meta property="file-as" refines="#artist">Mei, Leng</meta>
