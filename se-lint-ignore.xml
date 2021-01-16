@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="tao-te-ching.xhtml">
+	<file path="translators-intro-3.xhtml">
 		<ignore>
-			<code>m-045</code>
-			<reason>The file contains the entire work and thus its title is not in the ToC.</reason>
+			<code>s-023</code>
+			<reason>Title contains two sentences with the second one beginning with the word "And," which needs to be capitalized.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
