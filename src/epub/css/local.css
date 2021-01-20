@@ -6,8 +6,12 @@ abbr.era{
 	font-variant: all-small-caps;
 }
 
-blockquote[xml|lang] header{
+blockquote[xml|lang] header p{
 	font-style: normal;
+}
+
+blockquote[xml|lang] p{
+	font-style: italic;
 }
 
 [epub|type~="z3998:poem"]{
