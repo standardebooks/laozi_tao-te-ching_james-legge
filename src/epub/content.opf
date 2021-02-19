@@ -40,8 +40,8 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/216</dc:source>
-		<meta property="se:word-count">10464</meta>
-		<meta property="se:reading-ease.flesch">67.69</meta>
+		<meta property="se:word-count">25290</meta>
+		<meta property="se:reading-ease.flesch">67.28</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Tao_Te_Ching</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/laozi_tao-te-ching_james-legge</meta>
 		<dc:creator id="author">Laozi</dc:creator>
