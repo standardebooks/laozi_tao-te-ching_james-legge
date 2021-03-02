@@ -33,6 +33,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85132392</meta>
 		<meta property="se:subject">Philosophy</meta>
+		<meta property="se:subject">Spirituality</meta>
 		<dc:description id="description">One of the fundamental texts of the Tao philosophy and religion.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The &lt;i&gt;Tao Te Ching&lt;/i&gt; is a classic Chinese text written around the 6th century &lt;abbr&gt;BC&lt;/abbr&gt; by &lt;a href="https://standardebooks.org/ebooks/laozi"&gt;Laozi&lt;/a&gt;, a Zhou-dynasty courtier. While its authorship is debated, the text remains a fundamental building block of Taoism and one of the most influential works of its time. Today it’s one of the most-translated works in the world.&lt;/p&gt;
