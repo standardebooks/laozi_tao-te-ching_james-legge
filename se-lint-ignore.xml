@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="tao-te-ching.xhtml">
+		<ignore>
+			<code>f-015</code>
+			<reason>The entire work fits into one file so the filename is unique.</reason>
+		</ignore>
+	</file>
 	<file path="translators-intro-3.xhtml">
 		<ignore>
 			<code>s-023</code>
