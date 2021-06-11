@@ -2,7 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-abbr.era{
+[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
 
