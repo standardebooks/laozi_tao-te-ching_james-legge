@@ -5,6 +5,10 @@
 			<code>f-015</code>
 			<reason>The entire work fits into one file so the filename is unique.</reason>
 		</ignore>
+		<ignore>
+			<code>t-042</code>
+			<reason>Matched text is not a typo.</reason>
+		</ignore>
 	</file>
 	<file path="translators-intro-3.xhtml">
 		<ignore>
