@@ -67,11 +67,11 @@
 		<meta property="se:role" refines="#translator" scheme="marc:relators">aui</meta>
 		<meta property="se:role" refines="#translator" scheme="marc:relators">wpr</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
-		<dc:contributor id="artist">Leng Mei</dc:contributor>
-		<meta property="file-as" refines="#artist">Mei, Leng</meta>
-		<meta property="alternate-script" refines="#artist" xml:lang="zh-Hant">冷枚</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Leng_Mei</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2012033787</meta>
+		<dc:contributor id="artist">Wang Hui</dc:contributor>
+		<meta property="file-as" refines="#artist">Wang Hui</meta>
+		<meta property="alternate-script" refines="#artist" xml:lang="zh-Hant">王翚</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Wang_Hui_(Qing_dynasty)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81090298</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Gregory Walker</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Walker, Gregory</meta>
