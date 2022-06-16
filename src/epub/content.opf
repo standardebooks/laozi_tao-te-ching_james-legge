@@ -28,12 +28,12 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Tao Te Ching</dc:title>
 		<meta property="file-as" refines="#title">Tao Te Ching</meta>
-		<meta property="se:alternate-title" refines="#title">Dao De Jing</meta>
-		<meta property="se:alternate-title" refines="#title">Daode Jing</meta>
-		<meta property="se:alternate-title" refines="#title">Daodejing</meta>
-		<meta property="se:alternate-title" refines="#title">Laozi</meta>
-		<meta property="se:alternate-title" refines="#title">Lao Tzu</meta>
-		<meta property="se:alternate-title" refines="#title">Lao-Tze</meta>
+		<meta property="dcterms:alternate" refines="#title">Dao De Jing</meta>
+		<meta property="dcterms:alternate" refines="#title">Daode Jing</meta>
+		<meta property="dcterms:alternate" refines="#title">Daodejing</meta>
+		<meta property="dcterms:alternate" refines="#title">Laozi</meta>
+		<meta property="dcterms:alternate" refines="#title">Lao Tzu</meta>
+		<meta property="dcterms:alternate" refines="#title">Lao-Tze</meta>
 		<dc:subject id="subject-1">Taoism</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85132392</meta>
