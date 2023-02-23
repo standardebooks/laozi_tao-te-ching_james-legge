@@ -65,7 +65,6 @@
 		<meta property="se:role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="se:role" refines="#translator" scheme="marc:relators">aui</meta>
 		<meta property="se:role" refines="#translator" scheme="marc:relators">wpr</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
 		<dc:contributor id="artist">Wang Hui</dc:contributor>
 		<meta property="file-as" refines="#artist">Wang Hui</meta>
 		<meta property="alternate-script" refines="#artist" xml:lang="zh-Hant">王翚</meta>
