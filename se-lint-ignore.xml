@@ -2,10 +2,6 @@
 <se-lint-ignore>
 	<file path="tao-te-ching.xhtml">
 		<ignore>
-			<code>f-015</code>
-			<reason>The entire work fits into one file so the filename is unique.</reason>
-		</ignore>
-		<ignore>
 			<code>y-003</code>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
