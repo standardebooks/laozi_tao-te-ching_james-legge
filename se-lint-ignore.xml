@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="tao-te-ching.xhtml">
-		<ignore>
-			<code>f-015</code>
+		<ignore code="f-015">
 			<reason>The entire work fits into one file so the filename is unique.</reason>
 		</ignore>
-		<ignore>
-			<code>y-003</code>
+		<ignore code="y-003">
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="translators-intro-3.xhtml">
-		<ignore>
-			<code>s-023</code>
+		<ignore code="s-023">
 			<reason>Title contains two sentences with the second one beginning with the word "And," which needs to be capitalized.</reason>
 		</ignore>
 	</file>
