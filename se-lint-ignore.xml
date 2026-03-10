@@ -2,14 +2,17 @@
 <se-lint-ignore>
 	<file path="tao-te-ching.xhtml">
 		<ignore code="f-015">
+			<line>9</line>
 			<reason>The entire work fits into one file so the filename is unique.</reason>
 		</ignore>
 		<ignore code="y-003">
+			<line>865</line>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="translators-intro-3.xhtml">
 		<ignore code="s-023">
+			<line>10</line>
 			<reason>Title contains two sentences with the second one beginning with the word "And," which needs to be capitalized.</reason>
 		</ignore>
 	</file>
