@@ -57,7 +57,7 @@
 		<link href="https://github.com/standardebooks/laozi_tao-te-ching_james-legge" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Laozi</dc:creator>
 		<meta property="file-as" refines="#author">Laozi</meta>
-		<meta property="alternate-script" refines="#author" xml:lang="zh-Hant">老子</meta>
+		<meta property="alternate-script" refines="#author">老子</meta>
 		<link href="https://en.wikipedia.org/wiki/Laozi" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80044882.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -71,7 +71,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Wang Hui</dc:contributor>
 		<meta property="file-as" refines="#artist">Wang Hui</meta>
-		<meta property="alternate-script" refines="#artist" xml:lang="zh-Hant">王翚</meta>
+		<meta property="alternate-script" refines="#artist">王翚</meta>
 		<link href="https://en.wikipedia.org/wiki/Wang_Hui_(Qing_dynasty)" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n81090298.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
